@@ -31,6 +31,12 @@ Easy Setup
 </script>
 ```
 
+And **you must have** a `<canvas>` element on your page. So where you want to display the gamepad in the html, add:
+
+``` html
+<canvas></canvas>
+```
+
 If you are using node.js and something like [browserify](http://browserify.org/), you can install with `npm install game-controller`
 
 If you are still in the process of choosing an HTML5 Game Engine, see [this list - complete with reviews and details of popular HTML5 Game Engines](http://html5gameengine.com).
