@@ -31,7 +31,8 @@ Easy Setup
 </script>
 ```
 
-And **you must have** a `<canvas>` element on your page. So where you want to display the gamepad in the html, add:
+And **you must have** a `<canvas>` element on your page.
+If you dont't have one, add this where you want to display controllers:
 
 ``` html
 <canvas></canvas>
